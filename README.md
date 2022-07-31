@@ -1,8 +1,8 @@
-* ValC *
+** ValC **
 * A soon to be released Valorant Cheat.
 
-* DETECTIONS *
+** DETECTIONS **
 * Been testing it for about 3 months now, no detections yet.
 
-* External *
+** External **
 * The cheat is fully external.
